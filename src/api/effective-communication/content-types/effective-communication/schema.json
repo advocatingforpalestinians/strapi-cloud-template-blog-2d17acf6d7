@@ -1,0 +1,36 @@
+{
+  "kind": "singleType",
+  "collectionName": "effective_communications",
+  "info": {
+    "singularName": "effective-communication",
+    "pluralName": "effective-communications",
+    "displayName": "Effective Communication",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "page_title": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
+    },
+    "page_content": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "blocks"
+    }
+  }
+}

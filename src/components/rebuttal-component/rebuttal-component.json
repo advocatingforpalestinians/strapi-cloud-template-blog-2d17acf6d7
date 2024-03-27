@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_rebuttal_component_rebuttal_components",
+  "info": {
+    "displayName": "rebuttal_component",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "rebuttal_component_title": {
+      "type": "string"
+    },
+    "rebuttal_content": {
+      "type": "blocks"
+    }
+  }
+}
